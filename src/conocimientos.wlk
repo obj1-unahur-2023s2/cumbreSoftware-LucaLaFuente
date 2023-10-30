@@ -6,3 +6,5 @@ object html { method commitsPorHora() = 18 }
 object disenioConObjetos { method commitsPorHora() = 10 }
 object manejoDeGrupos { method commitsPorHora() = 0 }
 object instalacionLinux { method commitsPorHora() = 2 }
+
+//lista.max({ i => lista.occurrencesOf(i)})
