@@ -8,3 +8,4 @@ object manejoDeGrupos { method commitsPorHora() = 0 }
 object instalacionLinux { method commitsPorHora() = 2 }
 
 //lista.max({ i => lista.occurrencesOf(i)})
+// difference
